@@ -6,18 +6,14 @@ Desarrollador full-stack apasionado por crear soluciones eficientes y escalables
 
 ## 🔭 Proyectos en los que estoy trabajando
 
-- **[Fast Tournament](https://github.com/tu-usuario/mi-aplicacion-web)**: Una plataforma para gestionar tareas diarias con un enfoque en la productividad.
 
+- **[Fast Tournament](https://fast-tournament.netlify.app/)**: Plataforma para gestionar un torneo de futbol.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/42a4295f-74dc-446a-8023-208cb0fdeeb1/deploy-status)](https://app.netlify.com/sites/fast-tournament/deploys)
 ## 🌱 Actualmente estoy aprendiendo
 
-- **TypeScript par**: Para mejorar la eficiencia en la consulta de datos.
-- **Docker**: Para la containerización y despliegue de aplicaciones.
+- **Bash Scripting**: Para automatizar al maximo las tareas.
+- **Testing Front-end**: Desde unit tests hasta end to end.
 
-## 💬 Pregúntame sobre
-
-- Desarrollo full-stack
-- Buenas prácticas de desarrollo
-- Cómo optimizar aplicaciones web
 
 ## 📫 Cómo contactarme
 
@@ -27,16 +23,11 @@ Desarrollador full-stack apasionado por crear soluciones eficientes y escalables
 ## ⚡ Datos curiosos
 
 - Soy musico, mi instrumento favorito es la guitarra.
-- Soy .
+- Me gusta salir a cafeterias.
 
 ## 📈 Estadísticas de GitHub
 
 [![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=oliveramarilla14&show_icons=true&theme=radical)](https://github.com/oliveramarilla14)
-
-## 🏆 Logros
-
-- **Contribuidor Top 10 en Open Source**: Reconocido por mi contribución a varios proyectos de código abierto.
-- **Certificación en AWS**: Certificado como arquitecto de soluciones AWS.
 
 ---
 
