@@ -18,12 +18,8 @@ Desarrollador full-stack apasionado por crear soluciones eficientes y escalables
 ## 📫 Cómo contactarme
 
 - **Correo electrónico**: [amarillaoliver70@gmail.com](mailto:amarillaoliver70@gmail.com)
-- **LinkedIn**: [Alex en LinkedIn](https://www.linkedin.com/in/oliver-amarilla)
+- **LinkedIn**: [Oliver en LinkedIn](https://www.linkedin.com/in/oliver-amarilla)
 
-## ⚡ Datos curiosos
-
-- Soy musico, mi instrumento favorito es la guitarra.
-- Me gusta salir a cafeterias.
 
 ## 📈 Estadísticas de GitHub
 
